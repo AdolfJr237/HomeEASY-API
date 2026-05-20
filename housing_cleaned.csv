@@ -1,0 +1,46 @@
+listing_id,neighborhood,city,room_type,num_rooms,monthly_rent,wifi_available,security_score,availability,latitude,longitude,photo_count,agent_contact,description,room_type_encoded,neighborhood_encoded
+H001,Molyko,Buea,Studio,1,70000,1,3,1,4.15707,9.28986,3,237655000000.0,"Fenced compound, spacious parlor, private balcony, enough parking space, constant water flow, solar available, prepaid electricity, 10k janitorial services",2,7
+H002,Molyko,Buea,2-bedroom apartment,2,100000,1,3,1,4.15707,9.28986,3,237655000000.0,"Fenced compound, well staffed, spacious rooms, private balcony, constant water flow, generator for electricity backup",4,7
+H003,GRA,Buea,2-bedroom apartment,2,120000,1,5,1,4.14851,9.22866,3,237655000000.0,"Fenced compound, private balcony, constant water flow, solar energy",4,9
+H004,Bokwango,Buea,Studio,1,60000,0,4,1,4.1444,9.22804,3,237655000000.0,"Constant water flow, 4-5 minutes from the road",2,3
+H005,Bokwango,Buea,Studio,1,50000,0,4,1,4.1444,9.22804,3,237655000000.0,7 minutes from road,2,3
+H006,Molyko,Buea,Studio,1,40000,0,3,0,4.15707,9.28986,3,237655000000.0,"Water available, prepaid electricity",2,7
+H007,Clerks' Quarters,Buea,2-bedroom apartment,2,115000,0,4,1,4.1522,9.24173,3,237655000000.0,"Constant water supply, free electricity bills",4,8
+H008,Bonduma,Buea,2-bedroom apartment,2,80000,0,3,1,4.16095,9.26713,3,237655000000.0,"Constant water flow, prepaid electricity, fenced compound",4,5
+H009,Bomaka,Buea,Studio,1,40000,0,2,1,4.1578,9.3164,3,237655000000.0,"Constant water, choose any color and it will be repainted",2,2
+H010,Bomaka,Buea,1-bedroom apartment,1,30000,0,2,1,4.1578,9.3164,3,237655000000.0,"Fenced compound, constant water flow",3,2
+H011,Molyko,Buea,Studio,1,75000,1,3,1,4.15707,9.28986,3,237655000000.0,"3 minutes from road, prepaid electricity, constant water, standby generator, private balcony",2,7
+H012,Bonduma,Buea,1-bedroom apartment,1,40000,0,3,1,4.16095,9.26713,3,237655000000.0,Constant water,3,5
+H013,Federal Quarters,Buea,2-bedroom apartment,2,150000,1,5,1,4.14402,9.23205,3,237655000000.0,"2 bathrooms, constant water, standby generator, private balcony",4,10
+H014,Clerks' Quarters,Buea,2-bedroom apartment,2,110000,0,4,1,4.1522,9.24173,3,237655000000.0,"Free electricity at the moment, constant water flow",4,8
+H015,Molyko,Buea,Studio,1,50000,0,3,1,4.15707,9.28986,3,237655000000.0,"3-4 minutes from road, prepaid electricity, constant water",2,7
+H016,Bokwango,Buea,2-bedroom apartment,2,90000,0,4,1,4.1444,9.22804,3,237655000000.0,"Prepaid electricity, constant water, 4 minutes from road",4,3
+H017,Molyko,Buea,Studio,1,50000,0,3,1,4.15707,9.28986,3,237655000000.0,"Pay 1 year + caution required, prepaid electricity, constant water",2,7
+H018,GRA,Buea,2-bedroom apartment,2,120000,1,5,1,4.14851,9.22866,3,237655000000.0,"Standalone apartment, will be renovated, constant water, standby generator",4,9
+H019,Bomaka,Buea,Studio,1,55000,0,2,1,4.1578,9.3164,3,237655000000.0,"Zero distance from road, 2,500 FCFA monthly light bill, 1,000 FCFA trash management fee",2,2
+H020,Bomaka,Buea,1-bedroom apartment,1,25000,0,2,1,4.1578,9.3164,3,237655000000.0,"Yearly payments accepted, constant water flow, fenced compound, private balcony",3,2
+H021,Bonduma,Buea,1-bedroom apartment,1,35000,0,3,1,4.16095,9.26713,3,237655000000.0,"8 minutes from the road, very spacious",3,5
+H022,Molyko,Buea,1-bedroom apartment,1,35000,0,3,1,4.15707,9.28986,3,237655000000.0,"Constant water flow, gated compound",3,7
+H023,GRA,Buea,2-bedroom apartment,2,110000,1,5,1,4.14851,9.22866,3,237655000000.0,"Large parking space, constant water",4,9
+H024,Bonduma,Buea,Studio,1,70000,0,3,1,4.16095,9.26713,3,237655000000.0,"2 private balconies, constant water, prepaid meters, hot and cold water system",2,5
+H025,Federal Quarters,Buea,2-bedroom apartment,2,120000,1,5,1,4.14402,9.23205,3,237655000000.0,Constant water flow,4,10
+H026,Bokwango,Buea,2-bedroom apartment,2,130000,1,4,1,4.1444,9.22804,1,237655000000.0,"Constant water flow, prepaid electricity, fenced compound, up and down floor, 3-4 minutes from road",4,3
+H027,Molyko,Buea,Studio,1,100000,1,3,1,4.15707,9.28986,1,237655000000.0,"Constant water flow, prepaid electricity, fenced compound, 2 minutes from road, up and down floor, 2 private balconies",2,7
+H028,Molyko,Buea,2-bedroom apartment,2,110000,1,3,1,4.15707,9.28986,3,237655000000.0,"Parking lot available, water flows inside, prepaid meter for electricity, fenced compound, very large apartment",4,7
+H029,Great Soppo,Buea,2-bedroom apartment,2,80000,0,3,1,4.16263,9.24897,3,237655000000.0,"Good large parlour, water flows inside, private meter for electricity, large kitchen space",4,4
+H030,Bomaka,Buea,2-bedroom apartment,2,100000,0,2,1,4.1578,9.3164,3,237655000000.0,"3 toilets, large living room, private balcony, free electricity, fenced compound with parking space, upstairs and downstairs available",4,2
+H031,Great Soppo,Buea,Studio,1,45000,0,3,1,4.16263,9.24897,3,237655000000.0,"Private balcony, parking lot",2,4
+H032,Bonduma,Buea,Studio,1,15000,0,3,1,4.16095,9.26713,3,237655000000.0,"Water flows, 1,000 FCFA monthly electricity bill",2,5
+H033,Bonduma,Buea,Studio,1,35000,0,3,1,4.16095,9.26713,3,237655000000.0,Constant water flow,2,5
+H034,Great Soppo,Buea,1-bedroom apartment,1,50000,0,3,1,4.16263,9.24897,3,237655000000.0,Constant water flow,3,4
+H035,Bonduma,Buea,Studio,1,25000,0,3,1,4.16095,9.26713,3,237655000000.0,"Water not piped, residents carry water",2,5
+H036,Great Soppo,Buea,1-bedroom apartment,1,70000,0,3,1,4.16263,9.24897,3,237655000000.0,"Constant water flow, prepaid electricity",3,4
+H037,Clerks' Quarters,Buea,1-bedroom apartment,1,80000,0,4,1,4.1522,9.24173,3,237655000000.0,"Constant water flow, very spacious",3,8
+H038,Molyko,Buea,1-bedroom apartment,1,75000,1,3,1,4.15707,9.28986,3,237655000000.0,"Constant water flow (borehole), standby community tap in compound",3,7
+H039,Bokwango,Buea,2-bedroom apartment,2,100000,0,4,1,4.1444,9.22804,1,237655000000.0,"Large living room, 2 private balconies, constant water flow",4,3
+H040,Great Soppo,Buea,Studio,1,60000,0,3,1,4.16263,9.24897,3,237655000000.0,"Prepaid electricity, water available",2,4
+H041,Bokwango,Buea,2-bedroom apartment,2,150000,1,4,1,4.1444,9.22804,3,237655000000.0,"Gated compound, parking space available, 1 minute from road, prepaid electricity, borehole for constant water",4,3
+H042,Federal Quarters,Buea,2-bedroom apartment,2,120000,0,5,1,4.14402,9.23205,3,237655000000.0,"Large kitchen with balcony, well fenced with large parking lot",4,10
+H043,Great Soppo,Buea,Studio,1,60000,0,3,1,4.16263,9.24897,3,237655000000.0,"Constant water flow, 7 months rent + caution required",2,4
+H044,Bomaka,Buea,2-bedroom apartment,2,70000,0,2,1,4.1578,9.3164,3,237655000000.0,"1 minute from the road, fenced compound, constant water, prepaid meter",4,2
+H045,Clerks' Quarters,Buea,Studio,1,100000,0,4,1,4.1522,9.24173,3,237655000000.0,"Constant water, very spacious, 2 minutes from road, very classy",2,8

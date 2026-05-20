@@ -1,0 +1,36 @@
+preferred_city,primary_neighborhood,room_type,num_rooms,monthly_budget,wifi_important,wifi_required,security_importance,secured_area_required,top_priority,preference_if_same_price,accept_higher_rent_for_security_wifi
+Buea,GRA,2-bedroom apartment,2,60000,1.0,1.0,2,1,Rent price,Better security,1
+Buea,GRA,Single room,1,30000,1.0,1.0,2,1,Security,Better security,1
+Buea,GRA,1-bedroom apartment,2,100000,1.0,0.5,2,1,Location,Better security,1
+Buea,Molyko,Single room,1,30000,1.0,0.5,2,1,Rent price,WiFi,1
+Buea,Molyko,1-bedroom apartment,1,30000,1.0,0.0,2,1,Location,Better neighborhood,0
+Buea,Molyko,Studio,1,30000,1.0,0.0,2,1,Location,Better security,1
+Buea,Federal Quarters,2-bedroom apartment,3,100000,1.0,0.0,2,1,Security,Better neighborhood,1
+Buea,Molyko,Studio,1,30000,1.0,0.0,1,1,WiFi,WiFi,1
+Buea,Molyko,Studio,1,50000,1.0,1.0,2,1,WiFi,WiFi,1
+Buea,Molyko,1-bedroom apartment,2,60000,1.0,0.0,2,1,WiFi,Better security,1
+Buea,Molyko,Single room,1,30000,0.5,0.0,2,1,Security,Better security,1
+Limbe,GRA,1-bedroom apartment,1,50000,1.0,0.0,2,1,Location,Bigger room,1
+Limbe,GRA,Studio,1,60000,1.0,1.0,2,1,Location,Better neighborhood,1
+Other,Clerks’ Quarters,1-bedroom apartment,1,30000,1.0,0.5,2,1,Security,Better security,0
+Buea,Clerks’ Quarters,2-bedroom apartment,3,30000,1.0,1.0,2,1,Location,Better neighborhood,1
+Buea,Clerks’ Quarters,Studio,1,60000,1.0,0.5,2,1,Location,Better neighborhood,1
+Buea,Clerks’ Quarters,Studio,1,50000,1.0,1.0,2,1,Location,Better security,1
+Buea,Molyko,Studio,1,30000,1.0,1.0,2,1,Location,WiFi,0
+Buea,Bomaka,2-bedroom apartment,2,100000,1.0,1.0,2,1,Location,Better neighborhood,0
+Buea,GRA,Studio,1,30000,1.0,1.0,2,1,Security,Better security,1
+Buea,Great Soppo,Studio,1,50000,1.0,1.0,1,1,Location,WiFi,1
+Buea,Molyko,Studio,2,50000,0.5,0.0,1,1,Location,Bigger room,0
+Buea,Bokwango,Studio,1,30000,1.0,0.5,2,1,Location,Better security,0
+Buea,Molyko,Studio,2,60000,1.0,0.5,2,1,Location,Better security,1
+Buea,Great Soppo,Single room,1,30000,1.0,0.5,2,1,Security,Better security,1
+Buea,Clerks’ Quarters,2-bedroom apartment,2,80000,1.0,1.0,2,1,Location,Better neighborhood,0
+Buea,Mayor Street,1-bedroom apartment,1,30000,1.0,0.0,2,1,Security,Better security,0
+Buea,Great Soppo,Single room,1,30000,1.0,0.5,2,1,Rent price,Better security,1
+Buea,Molyko,Studio,1,50000,1.0,1.0,2,1,Location,Better neighborhood,1
+Buea,Bomaka,Studio,2,50000,1.0,1.0,1,1,Location,Better neighborhood,1
+Buea,GRA,Studio,1,50000,0.5,0.5,2,1,Security,Better security,1
+Other,Clerks’ Quarters,Single room,1,50000,1.0,1.0,2,1,Security,Better security,1
+Buea,Bonduma,Single room,1,60000,0.5,0.5,2,1,Location,Bigger room,1
+Both,Molyko,2-bedroom apartment,2,50000,1.0,1.0,2,1,Location,Better neighborhood,1
+Buea,Great Soppo,2-bedroom apartment,2,50000,1.0,1.0,2,1,Location,Better security,1
